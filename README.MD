@@ -11,7 +11,6 @@ Este é um projeto desenvolvido por **Ester**, estudante do curso de **Desenvolv
 - [ ] React  
 - [ ] MySQL  
 - [ ] Git & GitHub  
-- Outras: [adicione outras se necessário]
 
 ## 🚀 Funcionalidades
 
